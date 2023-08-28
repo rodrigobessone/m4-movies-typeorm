@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "sprint5",
+            "database": "sprint5_entrega",
+            "username": "rmbes",
+            "password": "030205"
+        }
+    ]
+}
